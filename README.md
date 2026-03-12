@@ -1,4 +1,4 @@
-# Image to Depth Map Blender addon
+#Monocular Depth Estimation for 3D Mesh Generation in Blender
 
 >*Contact me:* bvdpreddybode@gmail.com 
 
